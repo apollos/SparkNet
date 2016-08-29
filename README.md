@@ -1,3 +1,10 @@
+# What are we doing:
+1. Enable it on IBM Power 
+2. Optimize it and compare it with our MPI version for the community efficiency
+3. Enable RDMA and NVlink capacity
+4. Optimize the iteration and node ratio to speed up the convergency
+
+
 # SparkNet
 Distributed Neural Networks for Spark.
 Details are available in the [paper](http://arxiv.org/abs/1511.06051).
